@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/www-redux-toolkit/static/css/main.1661ad21.chunk.css",
-    "main.js": "/www-redux-toolkit/static/js/main.26961a8a.chunk.js",
-    "main.js.map": "/www-redux-toolkit/static/js/main.26961a8a.chunk.js.map",
-    "runtime-main.js": "/www-redux-toolkit/static/js/runtime-main.9ff73983.js",
-    "runtime-main.js.map": "/www-redux-toolkit/static/js/runtime-main.9ff73983.js.map",
-    "static/css/2.c62e3214.chunk.css": "/www-redux-toolkit/static/css/2.c62e3214.chunk.css",
-    "static/js/2.29cb2ba3.chunk.js": "/www-redux-toolkit/static/js/2.29cb2ba3.chunk.js",
-    "static/js/2.29cb2ba3.chunk.js.map": "/www-redux-toolkit/static/js/2.29cb2ba3.chunk.js.map",
-    "index.html": "/www-redux-toolkit/index.html",
-    "static/css/2.c62e3214.chunk.css.map": "/www-redux-toolkit/static/css/2.c62e3214.chunk.css.map",
-    "static/css/main.1661ad21.chunk.css.map": "/www-redux-toolkit/static/css/main.1661ad21.chunk.css.map",
-    "static/js/2.29cb2ba3.chunk.js.LICENSE.txt": "/www-redux-toolkit/static/js/2.29cb2ba3.chunk.js.LICENSE.txt",
-    "static/js/main.26961a8a.chunk.js.LICENSE.txt": "/www-redux-toolkit/static/js/main.26961a8a.chunk.js.LICENSE.txt",
-    "static/media/app.scss": "/www-redux-toolkit/static/media/hero_bg.0540b794.jpg"
+    "main.css": "/demo-redux-toolkit/static/css/main.3f2e9fdc.chunk.css",
+    "main.js": "/demo-redux-toolkit/static/js/main.26961a8a.chunk.js",
+    "main.js.map": "/demo-redux-toolkit/static/js/main.26961a8a.chunk.js.map",
+    "runtime-main.js": "/demo-redux-toolkit/static/js/runtime-main.3ddceaad.js",
+    "runtime-main.js.map": "/demo-redux-toolkit/static/js/runtime-main.3ddceaad.js.map",
+    "static/css/2.c62e3214.chunk.css": "/demo-redux-toolkit/static/css/2.c62e3214.chunk.css",
+    "static/js/2.29cb2ba3.chunk.js": "/demo-redux-toolkit/static/js/2.29cb2ba3.chunk.js",
+    "static/js/2.29cb2ba3.chunk.js.map": "/demo-redux-toolkit/static/js/2.29cb2ba3.chunk.js.map",
+    "index.html": "/demo-redux-toolkit/index.html",
+    "static/css/2.c62e3214.chunk.css.map": "/demo-redux-toolkit/static/css/2.c62e3214.chunk.css.map",
+    "static/css/main.3f2e9fdc.chunk.css.map": "/demo-redux-toolkit/static/css/main.3f2e9fdc.chunk.css.map",
+    "static/js/2.29cb2ba3.chunk.js.LICENSE.txt": "/demo-redux-toolkit/static/js/2.29cb2ba3.chunk.js.LICENSE.txt",
+    "static/js/main.26961a8a.chunk.js.LICENSE.txt": "/demo-redux-toolkit/static/js/main.26961a8a.chunk.js.LICENSE.txt",
+    "static/media/app.scss": "/demo-redux-toolkit/static/media/hero_bg.0540b794.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.9ff73983.js",
+    "static/js/runtime-main.3ddceaad.js",
     "static/css/2.c62e3214.chunk.css",
     "static/js/2.29cb2ba3.chunk.js",
-    "static/css/main.1661ad21.chunk.css",
+    "static/css/main.3f2e9fdc.chunk.css",
     "static/js/main.26961a8a.chunk.js"
   ]
 }
